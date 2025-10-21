@@ -17,6 +17,5 @@ Welcome to my GitHub profile! 🚀
 - 🤖 Machine learning
 
 ## 📫 Reach me:
-- [💼 LinkedIn](https://www.linkedin.com/in/展皝-陳-062200350/)
+- [💼 LinkedIn](https://www.linkedin.com/in/david-chen-062200350/)
 - [📸 Instagram](https://www.instagram.com/abcd1234davidchen)
-- [✉️ Email](mailto:abcd1234davidchen@gmail.com)
