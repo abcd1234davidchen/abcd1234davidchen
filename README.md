@@ -4,9 +4,10 @@ Welcome to my GitHub profile! 🚀
 I love developing and I'm always eager to learn new things.
 
 ## 👨‍💻 Who am I:
-- 🎓 3rd year CS student at NSYSU
-- 🌟 Former Vice President of Google Developer Group On Campus NSYSU
+- 🎓 4th year CS student at NSYSU
+- 💼 Intern at Kapito.io
 - 🔧 Maintenance team of NSYSU AP
+- 🌟 Former VP of Google Developer Group On Campus NSYSU
 
 ## 🛠️ What I can do:
 - 💻 C, C++, Python
